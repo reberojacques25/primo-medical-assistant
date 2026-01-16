@@ -31,7 +31,7 @@ genai.configure(api_key=GOOGLE_API_KEY)
 # -------------------------------------------------
 # ✅ BACKWARD-COMPATIBLE MODEL (IMPORTANT)
 # -------------------------------------------------
-model = genai.GenerativeModel("gemini-pro")
+model = genai.GenerativeModel("gemini-flash")
 
 # -------------------------------------------------
 # SESSION STATE
